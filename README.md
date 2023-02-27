@@ -6,7 +6,7 @@ I have a background in economics and econometrics, and I possess a diverse skill
 
 Below you will find a list of my repositories containing some of my current research projects that I am working on myself or with my colleagues:
 
-(1) **Grant policy analysis**: [\[gitpage\] Descriptive Analysis of Supported and Rejected Grants](https://hellche.github.io/grant_applications), (Russian grant foundation, 1994-2016).
+(1) **Grant policy analysis**: [\[gitpage\] Descriptive Analysis of Supported and Rejected Grants](https://hellche.github.io/grant_applications), *(Russian grant foundation, 1994-2016)*.
 
 (2) **Analysis of gender gaps in academic disciplines**:
 
@@ -14,7 +14,7 @@ Below you will find a list of my repositories containing some of my current rese
 
 -   [\[repo\] Dissertation Authors and Their Mentors. Can Gender Diversity in Russian STEM be Achieved?](https://github.com/hellche/stem_sti/)
 
-(3) **Metaknowledge perspective on Russian studies**: [\[repo\] Exploratory data analysis to identify patterns](https://github.com/hellche/russian_studies/), (WoS, 1990--2020).
+(3) **Metaknowledge perspective on Russian studies**: [\[repo\] Exploratory data analysis to identify patterns](https://github.com/hellche/russian_studies/), *(WoS, 1990--2020)*.
 
 (4) **Parenthood in Academia**: [\[gitpage\] Online supplementary materials for Work-life and work-work balance in universities and research centers in Russia. What can we do to stop reinforcing gender gaps?](https://hellche.github.io/egos2023), (EGOS 2023).
 
