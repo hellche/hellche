@@ -14,7 +14,7 @@ Below you will find a list of my repositories containing some of my current rese
 
 -   [\[repo\] Dissertation Authors and Their Mentors. Can Gender Diversity in Russian STEM be Achieved?](https://github.com/hellche/stem_sti/)
 
-(3) **Metaknowledge perspective on Russian studies**: [\[repo\] Exploratory data analysis to identify patterns](https://github.com/hellche/russian_studies/), *(WoS, 1990--2020)*.
+(3) **Metaknowledge perspective on Russian studies**: [\[repo\] Exploratory data analysis to identify patterns](https://github.com/hellche/russian_studies/), *(WoS, 1990-2020)*.
 
 (4) **Parenthood in Academia**: [\[gitpage\] Online supplementary materials](https://hellche.github.io/egos2023) for *Work-life and work-work balance in universities and research centers in Russia. What can we do to stop reinforcing gender gaps?*, (EGOS 2023).
 
