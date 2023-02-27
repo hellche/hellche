@@ -1,6 +1,5 @@
 ### Hi! 👋
 
-<!--
 I am a junior researcher in the fields of science of science and education science. I am currently seeking a challenging Ph.D. position to study people and their groups, estimate inequalities, and generate actionable policies.
 
 I have a background in economics and econometrics, and I possess a diverse skill set that includes statistics, data collection, preprocessing, exploratory and statistical data analysis, and data visualization using R and Python.
@@ -27,6 +26,5 @@ Below you will find a list of my repositories containing some of my current rese
 
 Thank you for your interest in my work!
 
--->
 
 
