@@ -4,7 +4,7 @@ I am a junior researcher in the fields of science of science and education scien
 
 I have a background in economics and econometrics, and I possess a diverse skill set that includes statistics, data collection, preprocessing, exploratory and statistical data analysis, and data visualization using R and Python.
 
-Below you will find a list of my repositories containing some of my current research projects that I am working on myself or with my colleagues:
+Some of my current research projects that I am working on myself or with my colleagues:
 
 (1) **Grant policy analysis**: [\[gitpage\] Descriptive Analysis of Supported and Rejected Grants](https://hellche.github.io/grant_applications), *(Russian grant foundation, 1994-2016)*.
 
