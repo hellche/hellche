@@ -1,4 +1,4 @@
-#### [MY CV ⇩ ](https://hellche.github.io/cv/) 
+#### [MY CV](https://hellche.github.io/cv/) 
 
 ### Hi! 👋
 
