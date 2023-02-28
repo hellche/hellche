@@ -1,9 +1,11 @@
-#### [MY CV](https://hellche.github.io/cv/) 
-_______
-
 ### Hi! 👋
 
 I am a junior researcher in the fields of science of science and education science 👩‍🎓. I have a background in economics and econometrics, and I am proficient in statistics, data collection, preprocessing, exploratory and statistical data analysis, and data visualization using `R` and `Python`.
+
+___
+#### [MY CV](https://hellche.github.io/cv/) 
+___
+
 
 Here are some of the research projects that I am currently working on, either on my own or with my colleagues:
 
