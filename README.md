@@ -18,7 +18,7 @@ Here are some of the research projects that I am currently working on, either on
 
 (3) **Metaknowledge perspective on Russian studies**: [\[repo\] Exploratory data analysis to identify patterns](https://github.com/hellche/russian_studies/), *(WoS, 1990-2020)*.
 
-(4) **Parenthood in Academia**: [\[gitpage\] Online supplementary materials](https://hellche.github.io/egos2023) for *Work-life and work-work balance in universities and research centers in Russia. What can we do to stop reinforcing gender gaps?*, (EGOS 2023).
+(4) **Parenthood in Academia**: [\[repo\] EGOS 2023 Shortpaper: [*Work-life and work-work balance in universities and research centers in Russia. What can we do to stop reinforcing gender gaps?*](https://github.com/hellche/egos2023).
 
 
 😊 Thank you for your interest in my work!
