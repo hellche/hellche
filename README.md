@@ -14,7 +14,7 @@ Here are some of the research projects that I am currently working on, either on
 
 -   [\[gitpage\] Online supplementary materials](https://hellche.github.io/issi2023) for *Gender Disparities in Academic Disciplines: An Attempt to Fill in the Blind Spots of Bibliometrics*, (ISSI 2023). 
 
--   [\[repo\] *Dissertation Authors and Their Mentors. Can Gender Diversity in Russian STEM be Achieved?*](https://github.com/hellche/stem_sti/)
+-   [\[repo\] *Dissertation Authors and Their Mentors. Can Gender Diversity in Russian STEM be Achieved?*](https://github.com/hellche/stem_sti/), (STI 2022).
 
 (3) **Metaknowledge perspective on Russian studies**: [\[repo\] *Exploratory data analysis to identify patterns*](https://github.com/hellche/russian_studies/), (Data: WoS, 1990-2020).
 
