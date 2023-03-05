@@ -8,7 +8,7 @@ ___
 
 Here are some of the research projects that I am currently working on, either on my own or with my colleagues:
 
-(1) **Grant policy analysis**: [\[gitpage\] Descriptive Analysis of Supported and Rejected Grants](https://hellche.github.io/grant_applications), *(Russian grant foundation, 1994-2016)*.
+(1) **Grant policy analysis**: [\[gitpage\] Descriptive Analysis of Supported and Rejected Grant Applications](https://hellche.github.io/grant_applications), *(Russian grant foundation, 1994-2016)*.
 
 (2) **Analysis of gender gaps in academic disciplines**:
 
