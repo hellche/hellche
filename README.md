@@ -1,11 +1,11 @@
 ### Hi! 👋
 
-I am a junior researcher in science of science and education science 👩‍🎓. I have a background in economics and econometrics, and I am proficient in statistics, data collection, preprocessing, exploratory and statistical data analysis, and data visualization using `R` and `Python`.
+I am a researcher in science of science and education science 👩‍🎓. I have a background in economics and econometrics, and I am proficient in statistics, data collection, preprocessing, exploratory and statistical data analysis, and data visualization using `R` and `Python`.
 
 
 Here are some of the research projects that I am currently working on, either on my own or with my colleagues:
 
-(1) **Grant policy analysis**: [\[gitpage\] *Descriptive Analysis of Supported and Rejected Grant Applications*](https://hellche.github.io/grant_applications), (Data: Russian Science Foundation, 1994-2016).
+(1) **Grant policy analysis**: [\[repo\] *Descriptive Analysis of Supported and Rejected Grant Applications*](https://github.com/hellche/grant_applications), (Data: Russian Science Foundation, 1994-2016).
 
 (2) **Analysis of gender gaps in academic disciplines**:
 
