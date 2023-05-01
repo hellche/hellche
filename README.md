@@ -11,11 +11,11 @@ Here are some of the research projects that I am currently working on, either on
 
 -   [\[repo\] *Dissertation Authors and Their Mentors. Can Gender Diversity in Russian STEM be Achieved?*](https://github.com/hellche/stem_sti/), STI 2022.
 
--   [\[gitpage\] Online supplementary materials](https://hellche.github.io/issi2023) for *Gender Disparities in Academic Disciplines: An Attempt to Fill in the Blind Spots of Bibliometrics*, ISSI 2023. 
+-   [\[repo\] *Gender Disparities in Academic Disciplines: An Attempt to Fill in the Blind Spots of Bibliometrics*](https://github.com/hellche/issi2023), ISSI 2023. 
 
 (3) **Web of Science publications about Russia for the past 30 years**: [\[repo\] *Exploratory data analysis to identify patterns*](https://github.com/hellche/russian_studies/).
 
-(4) **Parenthood in Academia**: EGOS 2023 shortpaper: [[repo] *Work-life and work-work balance in universities and research centers in Russia. What can we do to stop reinforcing gender gaps?*](https://github.com/hellche/egos2023).
+(4) **Parenthood in Academia** working paper: [[repo] *Work-life and work-work balance in universities and research centers in Russia. What can we do to stop reinforcing gender gaps?*]([https://github.com/hellche/egos2023](https://github.com/hellche/parenthood_HEI)).
 
 
 😊 Thank you for your interest in my work!
