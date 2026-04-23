@@ -1,9 +1,10 @@
 ### Hi! 👋
 
-I am a researcher in science of science 👩‍🎓. I have a background in economics and econometrics, and I am proficient in statistics, data collection, preprocessing, exploratory and statistical data analysis, and data visualization using `R` and `Python`.
+
+I am a computational social scientist specializing in science policy, with a focus on how geopolitical and institutional factors shape research collaboration and knowledge production. I am a first-year PhD student at Georgia Tech. 
 
 
-Here are some of the research projects that I am currently working on, either on my own or with my colleagues:
+Here are some of my side projects:
 
 (1) **Grant policy analysis**: [\[repo\] *Descriptive Analysis of Supported and Rejected Grant Applications*](https://github.com/hellche/grant_applications), (Data: Russian Science Foundation, 1994-2016).
 
